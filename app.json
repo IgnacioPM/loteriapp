@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0f9a0f30-9caa-49d3-b11e-4f61e83a7c51"
+      }
+    },
+    "owner": "ignaciopm"
   }
 }
